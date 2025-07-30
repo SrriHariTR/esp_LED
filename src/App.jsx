@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>ESP32 LED Control (Firebase)</h1>
+      <h1>ESP32 LED Control</h1>
       <button className="on" onClick={() => updateLED("on")}>
         Turn ON
       </button>
